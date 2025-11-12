@@ -1,23 +1,17 @@
+<div align="center">
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" href="https://github.com/sp-xd" alt="Workspace"  width="40%"/><br> 
+</div>
 
-<h2>  Quick Intro </h2>
 
-My name is Richard
-<br>🔭 I’m currently working at the University of Copenhagen as an image analyst.
-<br>💬 Ask me about basketball for hours of debates.
-<br>📫 How to reach me: [Link](https://cfim.ku.dk/equipment/imageanalysis/consultation-form/)
-<br><br><br><br><br><br>
+<h2>  Who Am I ? <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
+<br>🥖 My name is Richard, I am a French bio-physicist
+<br>🧑‍🏫 I’m currently working at the University of Copenhagen as an image analyst.
+<br>🏀 Ask me about basketball for hours of debates.
+<br>📫 How to reach me: <a href="https://cfim.ku.dk/equipment/imageanalysis/consultation-form/">Consultation Form</a>
+<br><br>
 
-<h2>  Some Software I Have Used and Learned</h2>
-<p align="left">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/anaconda/anaconda-original.svg" alt="anaconda" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/blender/blender-original.svg" alt="blender" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" alt="github" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matlab/matlab-original.svg" alt="matlab" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/notion/notion-original.svg" alt="notion" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rstudio/rstudio-original.svg" alt="r-studio" width="45" height="45"/>
-</p>
 
-<h2>  Open Source Software for Work</h2>
+<h2>  Open Source Software for BIA</h2>
 <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/anaconda/anaconda-original.svg" alt="cellprofiler" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/blender/blender-original.svg" alt="fiji" width="45" height="45"/>
@@ -26,7 +20,7 @@ My name is Richard
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/notion/notion-original.svg" alt="qupath" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rstudio/rstudio-original.svg" alt="r-studio" width="45" height="45"/>
 </p>
-<h2>  Commercial Software for Work</h2>
+<h2>  Commercial Software for BIA</h2>
 <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/anaconda/anaconda-original.svg" alt="amira" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/blender/blender-original.svg" alt="arivis" width="45" height="45"/>
@@ -36,6 +30,15 @@ My name is Richard
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rstudio/rstudio-original.svg" alt="zen" width="45" height="45"/>
 </p>
 
+<h2>  Extra Software I Have Used and Learned</h2>
+<p align="left">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/anaconda/anaconda-original.svg" alt="anaconda" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/blender/blender-original.svg" alt="blender" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" alt="github" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matlab/matlab-original.svg" alt="matlab" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/notion/notion-original.svg" alt="notion" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rstudio/rstudio-original.svg" alt="r-studio" width="45" height="45"/>
+</p>
 
 <h2>  Some Languages I Like and Hate</h2>
 <p align="left">
