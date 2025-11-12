@@ -161,7 +161,7 @@
 </a>
 
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height="165em" align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=rdemets&theme=monokai&layout=compact&langs_count=8&card_width=500" />
+  <img height="165em" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rdemets&theme=monokai&layout=compact&langs_count=8&card_width=500" />
 </a>
 
 
