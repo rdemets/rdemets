@@ -2,8 +2,7 @@
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" href="https://github.com/sp-xd" alt="Workspace"  width="40%"/><br> 
 </div>
 
-
-<h2><img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="60">Who Am I ? <img alt="views" title="GitHub profile views" src="https://freshidea.com/jonah/app/rdemets-profile-views"/><img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/rdemets?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/><img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/rdemets?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></h2>
+<h2><img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="60">Who Am I ? <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/rdemets?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/><img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/rdemets?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/><img alt="views" title="Profile views" src="https://komarev.com/ghpvc/?username=rdemets&color=lightgrey&style=for-the-badge&abbreviated=true"/></h2>
 <br>🥖 My name is Richard, I am a French bio-physicist
 <br>🧑‍🏫 I’m currently working at the University of Copenhagen as an image analyst.
 <br>🏀 Ask me about cats or basketball for hours of debates.
