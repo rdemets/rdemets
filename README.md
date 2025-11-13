@@ -2,7 +2,10 @@
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" href="https://github.com/sp-xd" alt="Workspace"  width="40%"/><br> 
 </div>
 
-<h2><img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="60">Who Am I ? <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/rdemets?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/><img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/rdemets?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/><img alt="views" title="Profile views" src="https://komarev.com/ghpvc/?username=rdemets&color=lightgrey&style=for-the-badge&abbreviated=true"/></h2>
+<div align="right">
+<h1><img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="60">Who Am I ? <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/rdemets?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/><img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/rdemets?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/><img alt="views" title="Profile views" src="https://komarev.com/ghpvc/?username=rdemets&color=lightgrey&style=for-the-badge&abbreviated=true"/></h1>
+</div>
+
 <br>🥖 My name is Richard, I am a French bio-physicist
 <br>🧑‍🏫 I’m currently working at the University of Copenhagen as an image analyst.
 <br>🏀 Ask me about cats or basketball for hours of debates.
@@ -14,48 +17,48 @@
     <details>
         <summary><h2><img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> Bioimage Analysis Software</h2></summary>
     <br>
-<h2 align="left" id="Open source tools">Open source Software (image.sc partners)</h2>
+<h2 align="left" id="Open source tools">Open source Software (from image.sc partners)</h2>
 <table>
   <tr>
     <td align="center" width="96">
       <a href="#macropower-tech" >
-        <img src="https://raw.githubusercontent.com/cncf/artwork/master/projects/kubernetes/icon/color/kubernetes-icon-color.svg" width="48" height="48" alt="Kubernetes" />
+        <img src="https://us1.discourse-cdn.com/flex015/uploads/imagej/original/3X/f/9/f91e7085643ccd8029d5835f49cb9e6b57411425.png" width="48" height="48" alt="Biaflows" />
       </a>
       <br>Biaflows
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech" >
-        <img src="https://raw.githubusercontent.com/cncf/artwork/master/projects/kubernetes/icon/color/kubernetes-icon-color.svg" width="48" height="48" alt="Kubernetes" />
+        <img src="https://us1.discourse-cdn.com/flex015/uploads/imagej/original/3X/4/2/42c832660d4b8bcd9626f18b6e61e019846d937b.svg" width="48" height="48" alt="Brainglobe" />
       </a>
       <br>Brainglobe
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech" >
-        <img src="https://raw.githubusercontent.com/cncf/artwork/master/projects/kubernetes/icon/color/kubernetes-icon-color.svg" width="48" height="48" alt="Kubernetes" />
+        <img src="https://us1.discourse-cdn.com/flex015/uploads/imagej/original/3X/e/e/ee2c9a0fbcffeb82735ad065805d295ceb61aaa0.png" width="48" height="48" alt="CAREamics" />
       </a>
       <br>CAREamics
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech" >
-        <img src="https://raw.githubusercontent.com/cncf/artwork/master/projects/kubernetes/icon/color/kubernetes-icon-color.svg" width="48" height="48" alt="Kubernetes" />
+        <img src="https://us1.discourse-cdn.com/flex015/uploads/imagej/original/3X/d/3/d3311a28640efceab951dfb9f85db5df2eec794c.png" width="48" height="48" alt="Cellpose" />
       </a>
       <br>Cellpose
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="./img/go-flat.svg" width="48" height="48" alt="Golang" />
+        <img src="https://us1.discourse-cdn.com/flex015/uploads/imagej/original/2X/f/f20f350d9f3a3d68136495bd4d9dab07ea81e193.png" width="48" height="48" alt="CellProfiler" />
       </a>
       <br>CellProfiler
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="./img/python-original.svg" width="48" height="48" alt="Python" />
+        <img src="https://us1.discourse-cdn.com/flex015/uploads/imagej/original/2X/0/0e8945ab435716655785de3fd2b9638fddc921db.png" width="48" height="48" alt="ImageJ/Fiji" />
       </a>
       <br>ImageJ/Fiji
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="https://jsonnet.org/img/isologo.svg" width="48" height="48" alt="Jsonnet" />
+        <img src="https://us1.discourse-cdn.com/flex015/uploads/imagej/original/3X/9/f/9f5be5e138c63bc6a50be0bb0027b8eef0194935.png" width="48" height="48" alt="Ilastik" />
       </a>
       <br>Ilastik
     </td>
@@ -63,37 +66,37 @@
     <tr>
     <td align="center" width="96">
       <a href="#macropower-tech" >
-        <img src="https://raw.githubusercontent.com/cncf/artwork/master/projects/kubernetes/icon/color/kubernetes-icon-color.svg" width="48" height="48" alt="Kubernetes" />
+        <img src="https://us1.discourse-cdn.com/flex015/uploads/imagej/original/3X/7/4/74273a1f9a663b52053d44c9767ed49193f2170f.png" width="48" height="48" alt="Microscopy Image Browser" />
       </a>
       <br>MIB
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="./img/typescript-original.svg" width="48" height="48" alt="TypeScript" />
+        <img src="https://us1.discourse-cdn.com/flex015/uploads/imagej/original/3X/7/7/775e83f70639e1cb7cb299d8681d272e18718089.png" width="48" height="48" alt="Napari" />
       </a>
       <br>Napari
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech" >
-        <img src="https://raw.githubusercontent.com/cncf/artwork/master/projects/kubernetes/icon/color/kubernetes-icon-color.svg" width="48" height="48" alt="Kubernetes" />
+        <img src="https://us1.discourse-cdn.com/flex015/uploads/imagej/original/3X/3/d/3dd74edae43b67980c95458b35371bad13a83298.png" width="48" height="48" alt="OMERO" />
       </a>
       <br>OMERO
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech" >
-        <img src="https://raw.githubusercontent.com/cncf/artwork/master/projects/kubernetes/icon/color/kubernetes-icon-color.svg" width="48" height="48" alt="Kubernetes" />
+        <img src="https://us1.discourse-cdn.com/flex015/uploads/imagej/original/3X/d/e/de1d6343f268ac72f35150038e62c9de1496d03c.png" width="48" height="48" alt="Piximi" />
       </a>
       <br>Piximi
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech" >
-        <img src="https://raw.githubusercontent.com/cncf/artwork/master/projects/kubernetes/icon/color/kubernetes-icon-color.svg" width="48" height="48" alt="Kubernetes" />
+        <img src="https://us1.discourse-cdn.com/flex015/uploads/imagej/original/3X/6/0/6039b2daa4b6b1c32943f63f464cf3c477898bfe.png" width="48" height="48" alt="QuPath" />
       </a>
       <br>QuPath
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech" >
-        <img src="https://raw.githubusercontent.com/cncf/artwork/master/projects/kubernetes/icon/color/kubernetes-icon-color.svg" width="48" height="48" alt="Kubernetes" />
+        <img src="https://us1.discourse-cdn.com/flex015/uploads/imagej/original/3X/2/5/2524486f9c7de3d437047caa3d8f8adc5234274d.png" width="48" height="48" alt="Stardist" />
       </a>
       <br>Stardist
     </td>
