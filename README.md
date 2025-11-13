@@ -15,16 +15,92 @@
     <details>
         <summary><h2><img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> Bioimage Analysis Software</h2></summary>
     <br>
-<h2 align="left" id="Open source tools">Open source Software</h2>
+<h2 align="left" id="Open source tools">Open source Software (image.sc partners)</h2>
+<table>
+  <tr>
+    <td align="center" width="96">
+      <a href="#macropower-tech" >
+        <img src="https://raw.githubusercontent.com/cncf/artwork/master/projects/kubernetes/icon/color/kubernetes-icon-color.svg" width="48" height="48" alt="Kubernetes" />
+      </a>
+      <br>Biaflows
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech" >
+        <img src="https://raw.githubusercontent.com/cncf/artwork/master/projects/kubernetes/icon/color/kubernetes-icon-color.svg" width="48" height="48" alt="Kubernetes" />
+      </a>
+      <br>Brainglobe
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech" >
+        <img src="https://raw.githubusercontent.com/cncf/artwork/master/projects/kubernetes/icon/color/kubernetes-icon-color.svg" width="48" height="48" alt="Kubernetes" />
+      </a>
+      <br>CAREamics
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech" >
+        <img src="https://raw.githubusercontent.com/cncf/artwork/master/projects/kubernetes/icon/color/kubernetes-icon-color.svg" width="48" height="48" alt="Kubernetes" />
+      </a>
+      <br>Cellpose
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="./img/go-flat.svg" width="48" height="48" alt="Golang" />
+      </a>
+      <br>CellProfiler
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="./img/python-original.svg" width="48" height="48" alt="Python" />
+      </a>
+      <br>ImageJ/Fiji
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="https://jsonnet.org/img/isologo.svg" width="48" height="48" alt="Jsonnet" />
+      </a>
+      <br>Ilastik
+    </td>
+    </tr>
+    <tr>
+    <td align="center" width="96">
+      <a href="#macropower-tech" >
+        <img src="https://raw.githubusercontent.com/cncf/artwork/master/projects/kubernetes/icon/color/kubernetes-icon-color.svg" width="48" height="48" alt="Kubernetes" />
+      </a>
+      <br>MIB
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="./img/typescript-original.svg" width="48" height="48" alt="TypeScript" />
+      </a>
+      <br>Napari
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech" >
+        <img src="https://raw.githubusercontent.com/cncf/artwork/master/projects/kubernetes/icon/color/kubernetes-icon-color.svg" width="48" height="48" alt="Kubernetes" />
+      </a>
+      <br>OMERO
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech" >
+        <img src="https://raw.githubusercontent.com/cncf/artwork/master/projects/kubernetes/icon/color/kubernetes-icon-color.svg" width="48" height="48" alt="Kubernetes" />
+      </a>
+      <br>Piximi
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech" >
+        <img src="https://raw.githubusercontent.com/cncf/artwork/master/projects/kubernetes/icon/color/kubernetes-icon-color.svg" width="48" height="48" alt="Kubernetes" />
+      </a>
+      <br>QuPath
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech" >
+        <img src="https://raw.githubusercontent.com/cncf/artwork/master/projects/kubernetes/icon/color/kubernetes-icon-color.svg" width="48" height="48" alt="Kubernetes" />
+      </a>
+      <br>Stardist
+    </td>
+  </tr>
+</table>
 
-<p align="left">
-<a href="https://pytorch.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/anaconda/anaconda-original.svg" alt="cellprofiler" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/blender/blender-original.svg" alt="fiji" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" alt="ilastik" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matlab/matlab-original.svg" alt="napari" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/notion/notion-original.svg" alt="qupath" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rstudio/rstudio-original.svg" alt="r-studio" width="45" height="45"/>
-</p>
 <h2 align="left" id="Commercial tools">Commercial Software</h2>
 
 <table>
@@ -33,60 +109,40 @@
       <a href="#macropower-tech">
         <img src="./img/go-flat.svg" width="48" height="48" alt="Golang" />
       </a>
-      <br>Go
+      <br>Amira-Avizo
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
         <img src="./img/python-original.svg" width="48" height="48" alt="Python" />
       </a>
-      <br>Python
+      <br>Arivis
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
         <img src="https://jsonnet.org/img/isologo.svg" width="48" height="48" alt="Jsonnet" />
       </a>
-      <br>Jsonnet
+      <br>Imaris
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
         <img src="./img/typescript-original.svg" width="48" height="48" alt="TypeScript" />
       </a>
-      <br>TypeScript
+      <br>Matlab
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech" >
         <img src="https://raw.githubusercontent.com/cncf/artwork/master/projects/kubernetes/icon/color/kubernetes-icon-color.svg" width="48" height="48" alt="Kubernetes" />
       </a>
-      <br>Kubernetes
+      <br>Huygens
     </td>
     <td align="center" width="96"> 
       <a href="#macropower-tech" >
         <img src="./img/docker-original.svg" width="48" height="48" alt="Docker" />
       </a>
-      <br>Docker
+      <br>ZEN
     </td>
-    <td align="center"  width="96">
-      <a href="#macropower-tech">
-        <img src="./img/debian-original.svg" width="48" height="48" alt="Debian" />
-      </a>
-      <br>Debian
-    </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech" >
-        <img src="https://raw.githubusercontent.com/grafana/grafana/master/public/img/grafana_icon.svg" width="48" height="48" alt="Grafana" />
-      </a>
-      <br>Grafana
-    </td>
-  </tr>
-</table>
-<p align="left">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/anaconda/anaconda-original.svg" alt="amira" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/blender/blender-original.svg" alt="arivis" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" alt="imaris" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matlab/matlab-original.svg" alt="matlab" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/notion/notion-original.svg" alt="huygens" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rstudio/rstudio-original.svg" alt="zen" width="45" height="45"/>
-</p>
+    </tr>
+    </table>
     </details>
 </div>
 
@@ -133,14 +189,14 @@
 <!-- START OF PROFILE STACK, DO NOT REMOVE -->
 | 💻 **Languages** | 🚀 **Projects** |
 | - | - |
-| [![Bash](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg)](https://www.python.org/) | [![notion-portfolio-tracker](https://img.shields.io/static/v1?label=&message=notion-portfolio-tracker&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/ashleymavericks/notion-portfolio-tracker) [![notion-interactive-brokers](https://img.shields.io/static/v1?label=&message=notion-interactive-brokers&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/ashleymavericks/notion-interactive-brokers) [![notion-habit-tracker](https://img.shields.io/static/v1?label=&message=notion-habit-tracker&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/ashleymavericks/notion-habit-tracker) [![hackclubnmit/certificate-generator](https://img.shields.io/static/v1?label=&message=certificate-generator&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/hackclubnmit/certificate-generator) [![todo-cli](https://img.shields.io/static/v1?label=&message=todo-cli&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/ashleymavericks/todo-cli) [![option-chain-notifier](https://img.shields.io/static/v1?label=&message=option-chain-notifier&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/ashleymavericks/option-chain-notifier) [![learnmate-backend](https://img.shields.io/static/v1?label=&message=learnmate-backend&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/ashleymavericks/learnmate-backend) |
-| [![C](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg)](https://go.dev/) | [![rocket-server](https://img.shields.io/static/v1?label=&message=rocket-server&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/ashleymavericks/rocket-server) [![titan-shell](https://img.shields.io/static/v1?label=&message=titan-shell&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/ashleymavericks/titan-shell) [![dataload-db](https://img.shields.io/static/v1?label=&message=dataload-db&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/ashleymavericks/dataload-db) |
-| [![Groovy](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/groovy/groovy-original.svg)](https://flask.palletsprojects.com/en/2.1.x/) | [![bitgrit-personality-api](https://img.shields.io/static/v1?label=&message=bitgrit-personality-api&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/ashleymavericks/bitgrit-personality-api) [![tradingview-discord-middleware](https://img.shields.io/static/v1?label=&message=tradingview-discord-middleware&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/ashleymavericks/tradingview-discord-middleware) |
-| [![Java](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg)](https://fastapi.tiangolo.com/) | [![browser-hot-reloading](https://img.shields.io/static/v1?label=&message=browser-hot-reloading&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/ashleymavericks/browser-hot-reloading) [![strategical-trading](https://img.shields.io/static/v1?label=&message=strategical-trading%20(WIP)&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/ashleymavericks/strategical-trading) |
-| [![Latex](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/latex/latex-original.svg)](https://www.djangoproject.com/) | [![todo-list-battle](https://img.shields.io/static/v1?label=&message=todo-list-battle%20(WIP)&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/ashleymavericks/todo-list-battle) |
-| [![Matlab](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matlab/matlab-original.svg)](https://www.typescriptlang.org/) | [![tokenizer-raycast](https://img.shields.io/static/v1?label=&message=tokenizer-raycast&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/ashleymavericks/tokenizer-raycast) [![nextjs-starter-template](https://img.shields.io/static/v1?label=&message=nextjs-starter-template&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/ashleymavericks/nextjs-starter-template) [![anuragsingh.dev](https://img.shields.io/static/v1?label=&message=anuragsingh.dev&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/ashleymavericks/anuragsingh.dev) [![supabase-uptime-monitor](https://img.shields.io/static/v1?label=&message=supabase-uptime-monitor&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/ashleymavericks/supabase-uptime-monitor) |
-| [![Python](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg)](https://javascript.info/) | [![unshorts](https://img.shields.io/static/v1?label=&message=unshorts&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/ashleymavericks/unshorts) |
-| [![R](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-original.svg)](https://nodejs.org/en/) | [![speaking-geo-assistant-backend](https://img.shields.io/static/v1?label=&message=speaking-geo-assistant-backend&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/ashleymavericks/speaking-geo-assistant-backend) [![dietary-care](https://img.shields.io/static/v1?label=&message=dietary-care&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/ashleymavericks/dietary-care) |
+| [![Bash](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg)](https://www.python.org/)Bash|[![option-chain-notifier](https://img.shields.io/static/v1?label=&message=option-chain-notifier&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/ashleymavericks/option-chain-notifier) [![learnmate-backend](https://img.shields.io/static/v1?label=&message=learnmate-backend&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/ashleymavericks/learnmate-backend) |
+| [![C](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg)](https://go.dev/)C | [![rocket-server](https://img.shields.io/static/v1?label=&message=rocket-server&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/ashleymavericks/rocket-server) [![titan-shell](https://img.shields.io/static/v1?label=&message=titan-shell&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/ashleymavericks/titan-shell) [![dataload-db](https://img.shields.io/static/v1?label=&message=dataload-db&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/ashleymavericks/dataload-db) |
+| [![Groovy](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/groovy/groovy-original.svg)](https://flask.palletsprojects.com/en/2.1.x/)Groovy | [![bitgrit-personality-api](https://img.shields.io/static/v1?label=&message=bitgrit-personality-api&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/ashleymavericks/bitgrit-personality-api) [![tradingview-discord-middleware](https://img.shields.io/static/v1?label=&message=tradingview-discord-middleware&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/ashleymavericks/tradingview-discord-middleware) |
+| [![Java/ImageJ](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg)](https://fastapi.tiangolo.com/)Java/ImageJ | [![browser-hot-reloading](https://img.shields.io/static/v1?label=&message=browser-hot-reloading&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/ashleymavericks/browser-hot-reloading) [![strategical-trading](https://img.shields.io/static/v1?label=&message=strategical-trading%20(WIP)&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/ashleymavericks/strategical-trading) |
+| [![Latex](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/latex/latex-original.svg)](https://www.djangoproject.com/)Latex | [![todo-list-battle](https://img.shields.io/static/v1?label=&message=todo-list-battle%20(WIP)&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/ashleymavericks/todo-list-battle) |
+| [![Matlab](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matlab/matlab-original.svg)](https://www.typescriptlang.org/)Matlab |[![supabase-uptime-monitor](https://img.shields.io/static/v1?label=&message=supabase-uptime-monitor&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/ashleymavericks/supabase-uptime-monitor) |
+| [![Python](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg)](https://javascript.info/)Python | [![unshorts](https://img.shields.io/static/v1?label=&message=unshorts&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/ashleymavericks/unshorts) |
+| [![R](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-original.svg)](https://nodejs.org/en/)R | [![speaking-geo-assistant-backend](https://img.shields.io/static/v1?label=&message=speaking-geo-assistant-backend&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/ashleymavericks/speaking-geo-assistant-backend) [![dietary-care](https://img.shields.io/static/v1?label=&message=dietary-care&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/ashleymavericks/dietary-care) |
   </details>
 </div>
 <!-- END OF PROFILE STACK, DO NOT REMOVE -->
@@ -152,8 +208,38 @@
 <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" alt="docker" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/julia/julia-original.svg" alt="julia" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/julia/julia-original.svg" alt="BiaPy" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/julia/julia-original.svg" alt="webknossos" width="45" height="45"/>
+    
 </p>
-
+<table>
+  <tr>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="./img/go-flat.svg" width="48" height="48" alt="Golang" />
+      </a>
+      <br>Docker
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="./img/python-original.svg" width="48" height="48" alt="Python" />
+      </a>
+      <br>Julia
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="https://jsonnet.org/img/isologo.svg" width="48" height="48" alt="Jsonnet" />
+      </a>
+      <br>BiaPy
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="./img/typescript-original.svg" width="48" height="48" alt="TypeScript" />
+      </a>
+      <br>Webknossos
+    </td>
+  </tr>
+</table>
 
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
