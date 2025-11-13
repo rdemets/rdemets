@@ -9,7 +9,7 @@
 <br>🥖 My name is Richard, I am a French bio-physicist
 <br>🧑‍🏫 I’m currently working at the University of Copenhagen as an image analyst.
 <br>🏀 Ask me about cats or basketball for hours of debates.
-<br>📫 How to reach me: <a href="https://cfim.ku.dk/equipment/imageanalysis/consultation-form/">Consultation Form</a>
+<br>📫 How to reach me: <img src="https://us1.discourse-cdn.com/flex015/uploads/imagej/original/2X/4/4904e8fe196486eabdbe0d9d185e94dfcab74e10.png" width="20" height="20"><a href="https://forum.image.sc/u/rdemets/summary"> Image.sc profile</a> & <a href="https://cfim.ku.dk/equipment/imageanalysis/consultation-form/">Consultation Form</a> 
 <br><br>
 
 
@@ -109,37 +109,37 @@
   <tr>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="./img/go-flat.svg" width="48" height="48" alt="Golang" />
+        <img alt="File:Logo Avizo.png" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Logo_Avizo.png/960px-Logo_Avizo.png?20100226093133" decoding="async" width="800" height="327" srcset="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Logo_Avizo.png/1200px-Logo_Avizo.png?20100226093133 1.5x, https://upload.wikimedia.org/wikipedia/commons/6/66/Logo_Avizo.png?20100226093133 2x" data-file-width="1404" data-file-height="574">
       </a>
       <br>Amira-Avizo
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="./img/python-original.svg" width="48" height="48" alt="Python" />
+        <img loading="lazy" decoding="async" width="500" height="358" src="https://oivm.org/wp-content/uploads/2021/09/arivis_logo.png" class="attachment-full size-full wp-image-3973" alt="" srcset="https://oivm.org/wp-content/uploads/2021/09/arivis_logo.png 500w, https://oivm.org/wp-content/uploads/2021/09/arivis_logo-300x215.png 300w" sizes="(max-width: 500px) 100vw, 500px">
       </a>
       <br>Arivis
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="https://jsonnet.org/img/isologo.svg" width="48" height="48" alt="Jsonnet" />
+        <img decoding="async" src="https://iof.pages.ist.ac.at/wp-content/uploads/sites/213/2024/01/imaris.png" alt="" width="70" height="70" class="alignnone size-full wp-image-16527" srcset="https://iof.pages.ist.ac.at/wp-content/uploads/sites/213/2024/01/imaris.png 252w, https://iof.pages.ist.ac.at/wp-content/uploads/sites/213/2024/01/imaris-150x150.png 150w, https://iof.pages.ist.ac.at/wp-content/uploads/sites/213/2024/01/imaris-200x200.png 200w, https://iof.pages.ist.ac.at/wp-content/uploads/sites/213/2024/01/imaris-100x100.png 100w, https://iof.pages.ist.ac.at/wp-content/uploads/sites/213/2024/01/imaris-40x40.png 40w" sizes="(max-width: 70px) 100vw, 70px">
       </a>
       <br>Imaris
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="./img/typescript-original.svg" width="48" height="48" alt="TypeScript" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matlab/matlab-original.svg" />
       </a>
       <br>Matlab
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech" >
-        <img src="https://raw.githubusercontent.com/cncf/artwork/master/projects/kubernetes/icon/color/kubernetes-icon-color.svg" width="48" height="48" alt="Kubernetes" />
+        <img alt="Image" draggable="true" src="https://pbs.twimg.com/profile_images/378800000191503922/ad9273c782a98c1e045e89930ce89d0d_400x400.png" class="css-9pa8cd">
       </a>
       <br>Huygens
     </td>
     <td align="center" width="96"> 
       <a href="#macropower-tech" >
-        <img src="./img/docker-original.svg" width="48" height="48" alt="Docker" />
+        <img src="https://pulchlorenz.de/out/pictures/generated/product/thumb/390_245_85/zen-blue_logo_cmyk.jpg" data-src="https://pulchlorenz.de/out/pictures/generated/product/thumb/390_245_85/zen-blue_logo_cmyk.jpg" alt="Zeiss ZEN Pro Mikroskopsoftware 3.11 " class="img-fluid">
       </a>
       <br>ZEN
     </td>
@@ -154,14 +154,40 @@
         <summary><h2><img src="https://emojis.slackmojis.com/emojis/images/1621024394/39092/cat-roll.gif?1621024394" width="38" /> Extra Software I Have Used and Learned</h2></summary>
     <br>
 
-<p align="left">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/anaconda/anaconda-original.svg" alt="anaconda" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/blender/blender-original.svg" alt="blender" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" alt="github" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matlab/matlab-original.svg" alt="matlab" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/notion/notion-original.svg" alt="notion" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rstudio/rstudio-original.svg" alt="r-studio" width="45" height="45"/>
-</p>
+<table>
+  <tr>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/anaconda/anaconda-original.svg" alt="anaconda" width="45" height="45"/>
+      </a>
+      <br>Anaconda
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/blender/blender-original.svg" alt="blender" width="45" height="45"/>
+      </a>
+      <br>Blender
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" alt="github" width="45" height="45"/>
+      </a>
+      <br>Github
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech" >
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/notion/notion-original.svg" alt="notion" width="45" height="45"/>
+      </a>
+      <br>Notion
+    </td>
+    <td align="center" width="96"> 
+      <a href="#macropower-tech" >
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rstudio/rstudio-original.svg" alt="r-studio" width="45" height="45"/>
+      </a>
+      <br>R Studio
+    </td>
+    </tr>
+    </table>
     </details>
 </div>
 
@@ -184,7 +210,7 @@
 
 <div align="left">
     <details>
-        <summary><h2><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> Programming Languages </h2></summary>
+        <summary><h2><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> Project examples </h2></summary>
     <br>
 
 
@@ -207,36 +233,29 @@
 <br><br>
 
 <h2>📖  What I want to learn next</h2>
-<p align="left">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" alt="docker" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/julia/julia-original.svg" alt="julia" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/julia/julia-original.svg" alt="BiaPy" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/julia/julia-original.svg" alt="webknossos" width="45" height="45"/>
-    
-</p>
 <table>
   <tr>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="./img/go-flat.svg" width="48" height="48" alt="Golang" />
+         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="48" height="48" alt="Docker"/>
       </a>
       <br>Docker
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="./img/python-original.svg" width="48" height="48" alt="Python" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/julia/julia-original.svg" width="48" height="48" alt="Julia"/> 
       </a>
       <br>Julia
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="https://jsonnet.org/img/isologo.svg" width="48" height="48" alt="Jsonnet" />
+        <img src="https://us1.discourse-cdn.com/flex015/uploads/imagej/original/3X/2/c/2c2adf128ad05723e09495f12f8e1999545dd24e.png" width="48" height="48" alt="BiaPy" />
       </a>
       <br>BiaPy
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="./img/typescript-original.svg" width="48" height="48" alt="TypeScript" />
+        <img src="https://us1.discourse-cdn.com/flex015/uploads/imagej/original/3X/f/8/f86e9d7ba39a8868aa77612aa0ef49b7c6d7ca32.png" width="48" height="48" alt="Webknossos" />
       </a>
       <br>Webknossos
     </td>
@@ -253,7 +272,7 @@
 </a>
 
 
-![Snake animation](https://github.com/rdemets/rdemets/blob/output/github-contribution-grid-snake.svg)
+<!-- ![Snake animation](https://github.com/rdemets/rdemets/blob/output/github-contribution-grid-snake.svg) -->
 
 
 <p align="center">
