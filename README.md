@@ -262,7 +262,7 @@
   </tr>
 </table>
 
-
+<div align="center">
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height="150em" align="left" src="https://github-readme-stats.vercel.app/api?username=rdemets&theme=monokai&show_icons=true" />
 </a>
@@ -270,7 +270,7 @@
 <a href="https://github.com/anuraghazra/convoychat">
   <img height="150em" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rdemets&theme=monokai&layout=compact&langs_count=8&card_width=500" />
 </a>
-
+</div>
 
 <!-- ![Snake animation](https://github.com/rdemets/rdemets/blob/output/github-contribution-grid-snake.svg) -->
 
